@@ -9,7 +9,7 @@ module.exports = {
     extend: {
       colors: {
         // Add your custom colors here
-        card: "#f3f4f6",
+        card: "#FFF6F6",
         textColor: "#111827",
         lightText: "#4b5563",
         themeColor: "#7e22ce",
