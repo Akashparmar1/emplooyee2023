@@ -20,7 +20,7 @@ const Navbar = ({ handleToggle, toggleDrawer }) => {
       {" "}
       {/* for header  */}
       <header>
-        <nav className="bg-themeColor  px-4 lg:px-6 py-2.5 " style={{ backgroundImage:"radial-gradient( circle 975px at 2.6% 48.3%,  rgba(0,8,120,1) 0%, rgba(95,184,224,1) 99.7% )"}}>
+        <nav className="bg-themeColor  px-4 lg:px-6 py-2.5 " style={{ backgroundImage:"linear-gradient(90deg, rgba(58,116,174,1) 7%, rgba(230,117,157,0.9579481450783438) 94%);"}}>
           <div className="flex flex-wrap justify-between items-center">
             <div className="flex justify-start items-center">
               <button className="hidden md:block" onClick={handleToggle}>
@@ -59,7 +59,7 @@ const Navbar = ({ handleToggle, toggleDrawer }) => {
               >
                 <span className="sr-only">Open user menu</span>
                 <div className="text-themeColor rounded-full p-2 bg-card">
-                  SG
+                  VIT
                 </div>
               </button>
 
