@@ -231,7 +231,7 @@ const Dashboard = () => {
             {!onBreak ? (
               <EmployeeAttendanceCard
                 textColor="text-white"
-                bgColor="bg-[#82b29a]"
+                bgColor="bg-[#79AC78]"
                 icon={<FiLogIn />}
                 time={
                   checkinTime
@@ -260,7 +260,7 @@ const Dashboard = () => {
               // Show this card when onBreak is false
               <EmployeeAttendanceCard
                 textColor="text-textColor"
-                bgColor="bg-[#ffe4e6]"
+                bgColor="bg-[#FFDBAA]"
                 icon={<FiCoffee />}
                 time="01h 45m"
                 cardTitle="Break"
