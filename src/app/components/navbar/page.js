@@ -71,10 +71,10 @@ const Navbar = ({ handleToggle, toggleDrawer }) => {
               >
                 <div className="py-3 px-4 ">
                   <span className="block text-sm font-semibold text-gray-900 ">
-                    Admin : Sukrit goyal
+                    Admin :Shraddha Tiwari
                   </span>
                   <span className="block text-sm font-light text-gray-500 truncate ">
-                    Contact : sukritgoyal36@gmail.com
+                    Contact : akaparmar3@gmail.com
                   </span>
                 </div>
               </div>
