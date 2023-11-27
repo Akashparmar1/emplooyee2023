@@ -116,7 +116,7 @@ const Home = () => {
               </form>
             </div>
           </div>
-          <div className="hidden lg:block lg:w-1/2 content bg-themeColor" style={{ background: "linear-gradient(90deg, rgba(62,11,75,1) 100%, rgba(230,117,157,0.9579481450783438) 100%);"}}>
+          <div className="hidden lg:block lg:w-1/2 content bg-themeColor" style={{ background: "linear-gradient(to right, #41295a, #2f0743)"}}>
             <section className="bg-transparent">
               <div className=" px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-28">
                 <div className="mr-auto place-self-center lg:col-span-7">
